@@ -17,6 +17,14 @@
 ---
 
 ## 📁 Project Structure
+segment-anything-model-playground/
+├── README.md                     ← This file
+├── Segment_Anything_Model.ipynb  ← Main notebook (to be added)
+├── requirements.txt              ← Python dependencies
+├── sample_images/                ← Test images
+├── outputs/                      ← Segmentation results
+├── .gitignore                    ← Ignore unnecessary files
+└── LICENSE                       ← MIT License
 
 ---
 
