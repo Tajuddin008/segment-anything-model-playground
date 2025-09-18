@@ -28,9 +28,7 @@ segment-anything-model-playground/
 
 ---
 
-## 📤 Step 3: Add Your Colab Notebook
-
-Now, you need to **upload your Colab notebook** (`Segment_Anything_Model.ipynb`) to the repo.
+> 💡 Tip: Run the notebook in Colab — no setup required!
 
 ### ➤ Option A: Download from Colab → Upload to GitHub
 
@@ -42,7 +40,7 @@ Now, you need to **upload your Colab notebook** (`Segment_Anything_Model.ipynb`)
 5. Commit message: `Add Segment_Anything_Model.ipynb`
 6. Click "Commit changes"
 
----
+> 💡 Tip: Run the notebook in Colab — no setup required!
 
 ### ➤ Option B: Save Directly to GitHub (Faster)
 
